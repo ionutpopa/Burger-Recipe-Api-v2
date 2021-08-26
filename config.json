@@ -1,0 +1,10 @@
+{
+  "database": {
+      "host": "localhost",
+      "port": 3306,
+      "user": "root",
+      "password": "",
+      "database": "burgers"
+  },
+  "secret": "jesusIsTheOne13#502157!!83073?asd32df34[1]2[]3/./;p4#v%a1y6^&cwdhdsq@#1t6"
+}
